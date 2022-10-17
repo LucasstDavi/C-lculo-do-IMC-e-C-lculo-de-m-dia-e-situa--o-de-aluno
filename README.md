@@ -4,7 +4,6 @@
 Nome: Lucas Davi de França Borges Rodrigues,
 Kennet Soto,
 Isa Carolina,
-Marcus Vinicius Gonçalves,
 Gabriel Cardoso,
 Patrícia Suellen,
 Geovanna Oliveira.
